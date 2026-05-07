@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Xinyi Liu"
   pronouns         : # example: "she/her"
-  bio              : "PhD Student, Media, Technology, and Society @ Northwestern University"
+  bio              : "PhD Student<br/>Media, Technology, and Society<br/>Northwestern University<br/>xinyiliu[at]u.northwestern.edu"
   location         : "Evanston, IL"
   employer         : "Northwestern University"
   uri              : # URL
-  email            : "xinyiliu@u.northwestern.edu"
+  email            :
 
   # Academic websites
   academia         : # URL

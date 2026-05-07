@@ -6,5 +6,5 @@ permalink: /publication/visuals-in-science
 excerpt: ''
 date: 2026-05-01
 venue: 'Work in Progress'
-citation: 'Liu, X., Wang, D., Lu, Y., Peng, Y., & Shao, E. Understanding Visuals in Science. (Work in Progress).'
+citation: 'Liu, X., Shao, E., Lu, Y., Peng, Y., & Dashun Wang. Understanding Visuals in Science. (Work in Progress).'
 ---
