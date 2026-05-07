@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Xinyi Liu"
 description              : &description "Personal website of Xinyi Liu, PhD student in Media, Technology, and Society at Northwestern University."
 url                      : https://xinyiliu-research.github.io
-baseurl                  : "/cv"
-repository               : "xinyiliu-research/cv"
+baseurl                  : ""
+repository               : "xinyiliu-research/xinyiliu-research.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
